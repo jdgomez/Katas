@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type roll struct {
 	throw    int
 	pinsDown int
@@ -59,7 +57,7 @@ func (g game) score() int {
 
 		firstRollInFrame = !firstRollInFrame
 
-		fmt.Println("frame:", i, "-", lastFrame)
+		//fmt.Println("frame:", i, "-", lastFrame)
 	}
 
 	return totalScore
