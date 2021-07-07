@@ -1,4 +1,4 @@
-# Banking in Go Lang
+# Bowling in Go Lang
 
 Kata obtained [here](https://kata-log.rocks/bowling-game-kata)
 
