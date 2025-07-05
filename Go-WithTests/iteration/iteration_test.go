@@ -57,6 +57,12 @@ func BenchmarkBenchedRepeat(b *testing.B) {
 	}
 }
 
+func BenchmarkMyCut(b *testing.B) {
+	for b.Loop() {
+		MyCut("cut", "hellocutworld")
+	}
+}
+
 func ExampleRepeat() {
 	repeated := Repeat("a", 6)
 	fmt.Println(repeated)
