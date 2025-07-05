@@ -17,3 +17,8 @@ func BenchedRepeat(character string, repeatCount int) string {
 	}
 	return repeated.String()
 }
+
+func MyCut(slice, phrase string) (before, after string, found bool) {
+	before, after, found = strings.Cut(phrase, slice)
+	return
+}
