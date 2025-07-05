@@ -24,14 +24,15 @@ func Hello(name string, language string) string {
 func greetingPrefix(language string) (prefix string) {
 	switch language {
 	case spanish:
-		return spanishHelloPrefix
+		prefix = spanishHelloPrefix
 	case french:
-		return frenchHelloPrefix
+		prefix = frenchHelloPrefix
 	case deutsch:
-		return deutschHelloPrefix
+		prefix = deutschHelloPrefix
 	default:
-		return englishHelloPrefix
+		prefix = englishHelloPrefix
 	}
+	return
 }
 
 func main() {
