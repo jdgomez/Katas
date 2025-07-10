@@ -9,3 +9,4 @@ Where I store my "Learn Go With Test" exercises
 - 06 - Pointers & errors
 - 07 - Maps
 - 08 - Dependency Injection
+- 09 - Mocking
