@@ -12,3 +12,5 @@ Where I store my "Learn Go With Test" exercises
 - 09 - Mocking
 - 10 - Concurrency
 - 11 - Select
+- 12 - Reflection
+- 
