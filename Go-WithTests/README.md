@@ -11,3 +11,4 @@ Where I store my "Learn Go With Test" exercises
 - 08 - Dependency Injection
 - 09 - Mocking
 - 10 - Concurrency
+- 11 - Select
