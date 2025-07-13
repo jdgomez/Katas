@@ -13,4 +13,4 @@ Where I store my "Learn Go With Test" exercises
 - 10 - Concurrency
 - 11 - Select
 - 12 - Reflection
-- 
+- 13 - Sync
