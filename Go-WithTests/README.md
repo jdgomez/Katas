@@ -15,4 +15,5 @@ Where I store my "Learn Go With Test" exercises
 - 12 - Reflection
 - 13 - Sync
 - 14 - Context
+- 15 - Property based test
 - 
