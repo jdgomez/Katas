@@ -19,4 +19,4 @@ Where I store my "Learn Go With Test" exercises
 - 16 - Clock face 
 - 17 - Reading files
 - 18 - Blog renderer
-- 
+- 19 - Generics - No code
