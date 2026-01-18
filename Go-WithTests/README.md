@@ -16,5 +16,7 @@ Where I store my "Learn Go With Test" exercises
 - 13 - Sync
 - 14 - Context
 - 15 - Property based test
-- 16 - Clock face - pending
+- 16 - Clock face 
 - 17 - Reading files
+- 18 - Blog renderer
+- 
