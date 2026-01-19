@@ -20,3 +20,4 @@ Where I store my "Learn Go With Test" exercises
 - 17 - Reading files
 - 18 - Blog renderer
 - 19 - Generics - No code
+- 20 - Array and slices revisited (Update on 04 - Array and slices)
